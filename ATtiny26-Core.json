@@ -1,0 +1,30 @@
+{
+  "packages": [
+    {
+      "name": "ATtiny26-Core",
+      "maintainer": "Nich1con",
+      "websiteURL": "https://github.com/Nich1con",
+      "email": "",
+      "help": {
+        "online": "https://github.com/Nich1con/ATtiny26-Core"
+      },
+      "platforms": [        
+		{
+          "name": "ATtiny26-Core",
+          "architecture": "AVR",
+          "version": "1.0.0",
+          "category": "Contributed",
+		  "url": "https://github.com/Nich1con/ATtiny26-Core/releases/download/v1.0.0/ATtiny26-Core.zip",
+          "archiveFileName": "ATtiny26-Core",
+          "checksum": "MD5:E31CF98973FF92E35D50B653F709F49A",
+          "size": "125810148",
+          "boards": [
+            {"name": "ATtiny26"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
