@@ -2,11 +2,11 @@
   "packages": [
     {
       "name": "ATtiny26",
-      "maintainer": "Nich1con",
-      "websiteURL": "https://github.com/Nich1con/ATtiny26-Core",
+      "maintainer": "AlexGyver",
+      "websiteURL": "https://alexgyver.ru",
       "email": "",
       "help": {
-        "online": "https://github.com/Nich1con/ATtiny26-Core"
+        "online": "https://github.com/AlexGyver/GyverCore"
       },
       "platforms": [        
 		{
