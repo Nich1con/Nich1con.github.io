@@ -2,11 +2,11 @@
   "packages": [
     {
       "name": "ATtiny26",
-      "maintainer": "AlexGyver",
-      "websiteURL": "https://alexgyver.ru",
+      "maintainer": "Nich1con",
+      "websiteURL": "https://github.com/Nich1con/ATtiny26-Core",
       "email": "",
       "help": {
-        "online": "https://github.com/AlexGyver/GyverCore"
+        "online": "https://github.com/Nich1con/ATtiny26-Core"
       },
       "platforms": [        
 		{
@@ -16,8 +16,8 @@
           "category": "Contributed",
 		  "url": "https://github.com/Nich1con/ATtiny26-Core/releases/download/v1.0.0/ATtiny26.zip",
           "archiveFileName": "ATtiny26.zip",
-          "checksum": "MD5:B4086268A794CF27871294ECB8D3ACF9",
-          "size": "29004",
+          "checksum": "MD5:F67CA1AC6F629A6898995A2881B9E4B3",
+          "size": "57426",
           "boards": [
             {"name": "ATtiny26"}
           ],
