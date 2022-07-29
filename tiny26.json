@@ -16,8 +16,8 @@
           "category": "Contributed",
 		  "url": "https://github.com/Nich1con/ATtiny26-Core/releases/download/v1.0.0/ATtiny26.zip",
           "archiveFileName": "ATtiny26.zip",
-          "checksum": "MD5:15B67F3196F0566E239ADABB6C51E347",
-          "size": "28574",
+          "checksum": "MD5:3EB57ED126A4B49EC6E0777E8E23C64A",
+          "size": "30030",
           "boards": [
             {"name": "ATtiny26"}
           ],
