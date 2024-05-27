@@ -12,12 +12,12 @@
 		{
           "name": "ATtiny26",
           "architecture": "avr",
-          "version": "1.2.0",
+          "version": "1.3.0",
           "category": "Contributed",
-		  "url": "https://github.com/Nich1con/ATtiny26-Core/releases/download/v1.2.0/ATtiny26.zip",
+		  "url": "https://github.com/Nich1con/ATtiny26-Core/releases/download/v1.3/ATtiny26.zip",
           "archiveFileName": "ATtiny26.zip",
-          "checksum": "MD5:551B6AFF3F201422D7F4383658943AE8",
-          "size": "30802",
+          "checksum": "MD5:22B17FEA7A83E07CA5FCC1448A8DCF75",
+          "size": "30495",
           "boards": [
             {"name": "ATtiny26"}
           ],
